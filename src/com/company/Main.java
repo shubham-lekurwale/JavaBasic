@@ -14,6 +14,11 @@ public class Main {
         System.out.println("Character Max: " + Character.MAX_VALUE);
         System.out.println("Short Max: " + Short.MAX_VALUE);
         System.out.println(Long.MAX_VALUE);
+
+
+
+
+
         Vector<Integer> v = new Vector<>();
         v.add(1_2);
         byte b = (byte) -654;
